@@ -33,7 +33,7 @@ ini semua gratis, jangan pelit ⭐️ ya :D
 ## Getting Started
 
 This project require NodeJS v12.
-Require Git? oh Yes `[Click For Download Git](https://git-scm.com/download/win)`
+Require Git? oh Yes [Click For Download Git](https://git-scm.com/download/win)
 
 ### Install For VPS, RDP, WIndows
 Clone this project

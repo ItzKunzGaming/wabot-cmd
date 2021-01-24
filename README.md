@@ -5,15 +5,15 @@
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/ArugaZ"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ItzKunz-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ItzKunzGaming"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ItzKunz-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/ItzKunzGaming/wabot-cmd/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/ItzKunzGaming/wabot-cmd/badge/master"></a>
 </p>
 <p align="center">
-<a href="https://github.com/arugaz/followers"><img title="Followers" src="https://img.shields.io/github/followers/ItzKunzGaming?color=blue&style=flat-square"></a>
-<a href="https://github.com/arugaz/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ItzKunzGaming/wabot-cmd?color=red&style=flat-square"></a>
-<a href="https://github.com/arugaz/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ItzKunzGaming/wabot-cmd?color=red&style=flat-square"></a>
+<a href="https://github.com/ItzKunzGaming/followers"><img title="Followers" src="https://img.shields.io/github/followers/ItzKunzGaming?color=blue&style=flat-square"></a>
+<a href="https://github.com/ItzKunzGaming/wabot-cmd/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ItzKunzGaming/wabot-cmd?color=red&style=flat-square"></a>
+<a href="https://github.com/ItzKunzGaming/wabot-cmd/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ItzKunzGaming/wabot-cmd?color=red&style=flat-square"></a>
 <a href="https://github.com/arugaz/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ItzKunzGaming/wabot-cmd?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FItzKunzGaming%2Fwabot-cmd&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
@@ -26,15 +26,16 @@
 </details>
 
 ini semua gratis, jangan pelit ⭐️ ya :D
-<p align="center"><a href="https://arugaz.herokuapp.com/" target="_blank">My Rest APIs</a>.</p>
+<p align="center"><a href="https://wabotid-api.herokuapp.com/" target="_blank">My Rest APIs</a>.</p>
 <p align="center"><a href="https://wa.me/6281211471363" target="_blank">My Whatsapp BOT</a>.</p>
 </div>
 
 ## Getting Started
 
 This project require NodeJS v12.
+Require Git? oh Yes `[Click For Download Git](https://git-scm.com/download/win)`
 
-### Install
+### Install For VPS, RDP, WIndows
 Clone this project
 
 ```bash
@@ -59,16 +60,16 @@ Run the Whatsapp bot
 after running it you need to scan the qr
 
 ### Information
-- Change ownerNumber on [this section](https://github.com/ItzKunzGaming/wabot-cmd/blob/master/settings/setting.json#L2)
-- Change groupLimit on [this section](https://github.com/ItzKunzGaming/wabot-cmd/blob/master/settings/setting.json#L3)
-- Change memberLimit on [this section](https://github.com/ItzKunzGaming/wabot-cmd/blob/master/settings/setting.json#L4)
-- Change prefix on [this section](https://github.com/ItzKunzGaming/wabot-cmd/blob/master/settings/setting.json#L5)
-- Change menu on [this section](https://github.com/ItzKunzGaming/wabot-cmd/blob/master/lib/menu.js#L32)
-- Add kata kasar on [this section](https://github.com/ItzKunzGaming/wabot-cmd/blob/master/lib/kataKotor.js#L8)
-- Change all apiKey on [this section](https://github.com/ItzKunzGaming/wabot-cmd/blob/master/settings/api.json)
-- Get Api NoBackground on [this website](https://www.remove.bg/)
-- Get Api ScreenShot on [this website](https://apiflash.com/)
-- Get Api Simi-simi on [this website](https://workshop.simsimi.com/en/), masih limit api simi-siminya? aktifin Project-Active
+- Change ownerNumber on [Click For Change ownerNumber](https://github.com/ItzKunzGaming/wabot-cmd/blob/master/settings/setting.json#L2)
+- Change groupLimit on [Click For Change groupLimit](https://github.com/ItzKunzGaming/wabot-cmd/blob/master/settings/setting.json#L3)
+- Change memberLimit on [Click For Change memberLimit](https://github.com/ItzKunzGaming/wabot-cmd/blob/master/settings/setting.json#L4)
+- Change prefix on [Click For Change prefix on](https://github.com/ItzKunzGaming/wabot-cmd/blob/master/settings/setting.json#L5)
+- Change menu on [Click For Change menu on](https://github.com/ItzKunzGaming/wabot-cmd/blob/master/lib/menu.js#L32)
+- Add kata kasar on [Click For add kata kasar](https://github.com/ItzKunzGaming/wabot-cmd/blob/master/lib/kataKotor.js#L8)
+- Change all apiKey on [Click For Change all Apikey](https://github.com/ItzKunzGaming/wabot-cmd/blob/master/settings/api.json)
+- Get Api NoBackground on [Click Me](https://www.remove.bg/)
+- Get Api ScreenShot on [Click Me](https://apiflash.com/)
+- Get Api Simi-simi on [Click Me](https://workshop.simsimi.com/en/), masih limit api simi-siminya? aktifin Project-Active
 ---
 
 ## Features

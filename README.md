@@ -8,7 +8,7 @@
 <a href="https://github.com/ItzKunzGaming"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ItzKunz-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://www.codefactor.io/repository/github/ItzKunzGaming/wabot-cmd/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/ItzKunzGaming/wabot-cmd/badge/master"></a>
+<a href="https://www.codefactor.io/repository/github/itzkunzgaming/wabot-cmd"><img title="Rating" src="https://www.codefactor.io/repository/github/ItzKunzGaming/wabot-cmd/badge/main"></a>
 </p>
 <p align="center">
 <a href="https://github.com/ItzKunzGaming/followers"><img title="Followers" src="https://img.shields.io/github/followers/ItzKunzGaming?color=blue&style=flat-square"></a>
